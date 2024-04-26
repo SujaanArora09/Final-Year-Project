@@ -30,7 +30,7 @@ class _LocalAuthPageState extends State<LocalAuthPage> {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              SizedBox(
+              const SizedBox(
                 height: 70,
               ),
               Column(
